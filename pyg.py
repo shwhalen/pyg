@@ -29,7 +29,7 @@ bin1_size = config['bin1_size']
 bin2_size = config['bin2_size']
 self_ligation_distance = config['self_ligation_distance']
 n_jobs = config['n_jobs']
-debug = True
+debug = False
 
 re1_columns = ['re1_chrom', 're1_start', 're1_end']
 re2_columns = ['re2_chrom', 're2_start', 're2_end']

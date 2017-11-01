@@ -18,8 +18,9 @@ The dependencies for PyG, along with the versions used for testing, are:
 - numexpr (2.6.2)
 - numpy (1.13.3)
 - feather (0.4)
-- scikit-learn (0.19.1)
 - rpy2 (2.9)
+- scikit-learn (0.19.1)
+- tqdm (4.19.4)
 - bedtools (2.26)
 
 We recommend using [Miniconda](http://conda.pydata.org/miniconda.html) for R and Python packages.  [`bedtools`](https://github.com/arq5x/bedtools2/releases) has source and binary packages available for multiple platforms.
